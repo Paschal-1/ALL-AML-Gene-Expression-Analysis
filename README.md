@@ -6,7 +6,7 @@ This project investigates gene expression patterns in **Acute Lymphoblastic Leuk
 
 The study utilizes one of the most widely used benchmark datasets in bioinformatics, containing expression measurements of **7,129 genes** across leukemia patient samples. The aim of this project is to identify differences in gene expression between ALL and AML, explore potential biomarker genes, and evaluate the ability of machine learning algorithms to classify leukemia subtypes.
 
-This project represents my first hands-on application of computational biology and bioinformatics methods and marks an important step in my transition into genomics and data-driven biological research.
+This project represents my first hands-on application of computational biology and bioinformatics methods and marks an important step in my practical experience in genomics and data-driven biological research.
 
 ---
 
