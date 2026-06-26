@@ -92,22 +92,22 @@ The dataset contains:
 ```text
 ALL-AML-Gene-Expression-Analysis
 │
-├── ALL_AML Gene expression data source
+├── data
 │   ├── data_set_ALL_AML_train.csv
 │   ├── data_set_ALL_AML_independent.csv
 │   └── actual.csv
 │
-├── Notebooks
+├── notebooks
 │   └── ALL_AML_Gene_Expression_Analysis.ipynb
 │
-├── ALL AML Gene expression Analysis figures
-│   ├── PCA of ALL vs AML.png
-│   ├── t-Sne Plot.png
-│   ├── Volcano plot.png
-│   ├── heatmapping.png
-│   └── confusion matrix heatmapping.png
+├── figures
+│   ├── pca_plot.png
+│   ├── tsne_plot.png
+│   ├── volcano_plot.png
+│   ├── heatmap.png
+│   └── confusion_matrix.png
 │
-├── ALL_AML Gene expression results
+├── results
 │   ├── differential_expression.csv
 │   └── feature_importance.csv
 │
@@ -154,6 +154,8 @@ ALL-AML-Gene-Expression-Analysis
 * Reproducible Research Practices
 * Scientific Computing with Python
 * Genomic Data Analysis
+
+---
 
 ## Results and Findings
 
@@ -272,7 +274,6 @@ The findings demonstrate that gene expression data contains biologically meaning
 
 As my first genomics and bioinformatics project, this work provided valuable hands-on experience in computational biology, statistical analysis, and machine learning applications in healthcare. It also strengthened my interest in applying computational methods to real-world biological problems and serves as a foundation for future work in bioinformatics, genomics, and precision medicine.
 
----
 
 ## Learning Outcomes
 
@@ -304,7 +305,7 @@ I am particularly interested in applying computational approaches to real-world 
 
 ## Personal Statement
 
-As a biochemistry graduate, this project represents both a learning experience and a commitment to continuous growth in computational biology.
+As a biochemistry graduate transitioning into bioinformatics and genomics, this project represents both a learning experience and a commitment to continuous growth in computational biology.
 
 While this project is exploratory in nature, it reflects my curiosity, willingness to learn, and determination to develop the technical and scientific skills necessary to contribute meaningfully to genomics research and data-driven biological discovery.
 
@@ -320,7 +321,7 @@ Data Analyst | Biochemist | Aspiring Bioinformatician and Genomics Researcher
 
 GitHub: https://github.com/Paschal-1
 
-LinkedIn: *www.linkedin.com/in/paschal-ofodile*
+LinkedIn: *Add your LinkedIn profile here*
 
 ---
 
