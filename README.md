@@ -321,10 +321,14 @@ Data Analyst | Biochemist | Aspiring Bioinformatician and Genomics Researcher
 
 GitHub: https://github.com/Paschal-1
 
-LinkedIn: *Add your LinkedIn profile here*
+LinkedIn: *www.linkedin.com/in/paschal-ofodile*
+
+Email: *stephenpaschal445@gmail.com*
+
+Email 2: *ofodilepaschalchukwunonso@gmail.com*
 
 ---
 
 ## Acknowledgements
 
-This project uses the publicly available ALL vs AML leukemia gene expression dataset, which has been widely used for educational purposes and methodological demonstrations in bioinformatics and machine learning research.
+This project uses the publicly available ALL vs AML leukemia gene expression dataset from kaggle, which has been widely used for educational purposes and methodological demonstrations in bioinformatics and machine learning research.
