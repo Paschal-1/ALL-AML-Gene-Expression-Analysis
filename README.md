@@ -92,12 +92,12 @@ The dataset contains:
 ```text
 ALL-AML-Gene-Expression-Analysis
 │
-├── data
+├── ALL_AML Gene expression data source
 │   ├── data_set_ALL_AML_train.csv
 │   ├── data_set_ALL_AML_independent.csv
 │   └── actual.csv
 │
-├── notebooks
+├── Notebooks
 │   └── ALL_AML_Gene_Expression_Analysis.ipynb
 │
 ├── figures
@@ -107,7 +107,7 @@ ALL-AML-Gene-Expression-Analysis
 │   ├── heatmap.png
 │   └── confusion_matrix.png
 │
-├── results
+├── ALL_AML Gene expression results
 │   ├── differential_expression.csv
 │   └── feature_importance.csv
 │
@@ -163,7 +163,7 @@ ALL-AML-Gene-Expression-Analysis
 
 The PCA plot below summarizes the expression of 7,129 genes into two principal components (PC1 and PC2).
 
-![PCA Plot](figures/pca_plot.png)
+![PCA Plot](ALL_AML_Gene_Analysis/figures/pca_plot.png)
 
 **Interpretation**
 
@@ -180,7 +180,7 @@ The PCA plot below summarizes the expression of 7,129 genes into two principal c
 
 t-SNE was used to further explore similarities among patient samples.
 
-![t-SNE Plot](figures/tsne_plot.png)
+![t-SNE Plot](ALL_AML_Gene_Analysis/figures/tsne_plot.png)
 
 **Interpretation**
 
@@ -196,7 +196,7 @@ t-SNE was used to further explore similarities among patient samples.
 
 The volcano plot displays the statistical significance of each gene.
 
-![Volcano Plot](figures/volcano_plot.png)
+![Volcano Plot](AL_AML_Gene_Analysis/figures/volcano_plot.png)
 
 **Interpretation**
 
@@ -213,7 +213,7 @@ The volcano plot displays the statistical significance of each gene.
 
 The heatmap below shows the expression patterns of the most significant genes across patient samples.
 
-![Heatmap](figures/heatmap.png)
+![Heatmap](ALL_AML_Gene_Analysis/figures/heatmap.png)
 
 **Interpretation**
 
@@ -230,7 +230,7 @@ The heatmap below shows the expression patterns of the most significant genes ac
 
 The confusion matrix below summarizes the performance of the Random Forest classifier.
 
-![Confusion Matrix](figures/confusion_matrix.png)
+![Confusion Matrix](ALL_AML_Gene_Analysis/figures/confusion_matrix.png)
 
 #### Model Performance
 
