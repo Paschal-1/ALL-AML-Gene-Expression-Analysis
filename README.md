@@ -196,7 +196,7 @@ t-SNE was used to further explore similarities among patient samples.
 
 The volcano plot displays the statistical significance of each gene.
 
-![Volcano Plot](AL_AML_Gene_Analysis/figures/volcano_plot.png)
+![Volcano Plot](ALL_AML_Gene_Analysis/figures/volcano_plot.png)
 
 **Interpretation**
 
