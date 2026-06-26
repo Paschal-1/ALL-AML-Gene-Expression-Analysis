@@ -155,14 +155,13 @@ ALL-AML-Gene-Expression-Analysis
 * Scientific Computing with Python
 * Genomic Data Analysis
 
----
 ## Results and Findings
 
 ### Principal Component Analysis (PCA)
 
 The PCA plot below summarizes the expression of 7,129 genes into two principal components (PC1 and PC2).
 
-![PCA Plot](ALL AML Gene expression Analysis figures/PCA of ALL vs AML.png)
+![PCA Plot](figures/pca_plot.png)
 
 **Interpretation**
 
@@ -179,13 +178,13 @@ The PCA plot below summarizes the expression of 7,129 genes into two principal c
 
 t-SNE was used to further explore similarities among patient samples.
 
-![t-SNE Plot](ALL AML Gene expression Analysis figures/t-Sne Plot.png)
+![t-SNE Plot](figures/tsne_plot.png)
 
 **Interpretation**
 
 * Samples belonging to similar disease types tend to cluster together.
 * The clustering patterns suggest the presence of subtype-specific gene expression signatures.
-* Some overlap remains, which is expected in biological datasets.
+* Some overlap remains, which is expected in real biological datasets.
 
 **Key Finding:** The data contains meaningful structure and evidence of molecular differences between ALL and AML.
 
@@ -195,7 +194,7 @@ t-SNE was used to further explore similarities among patient samples.
 
 The volcano plot displays the statistical significance of each gene.
 
-![Volcano Plot](ALL AML Gene expression Analysis figures/Volcano plot.png)
+![Volcano Plot](figures/volcano_plot.png)
 
 **Interpretation**
 
@@ -212,7 +211,7 @@ The volcano plot displays the statistical significance of each gene.
 
 The heatmap below shows the expression patterns of the most significant genes across patient samples.
 
-![Heatmap](ALL AML Gene expression Analysis figures/heatmapping.png)
+![Heatmap](figures/heatmap.png)
 
 **Interpretation**
 
@@ -229,7 +228,7 @@ The heatmap below shows the expression patterns of the most significant genes ac
 
 The confusion matrix below summarizes the performance of the Random Forest classifier.
 
-![Confusion Matrix](ALL AML Gene expression Analysis figures/confusion matrix heatmapping.png)
+![Confusion Matrix](figures/confusion_matrix.png)
 
 #### Model Performance
 
